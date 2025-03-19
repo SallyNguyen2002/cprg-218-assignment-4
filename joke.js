@@ -17,6 +17,7 @@ function displayJoke(data, category) {
     } else {
         title.textContent = `A Random ${category} Joke`;
     }
+    
     if (data.type === 'single') {
         jokeText.textContent = data.joke;
     } 
