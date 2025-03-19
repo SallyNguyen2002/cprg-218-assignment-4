@@ -26,6 +26,10 @@ function fetchJoke(category) {
         }
     }
     
+    window.onload = function() {
+        fetchJoke('Any');
+    }
+
     function getJoke(category) {
         fetchJoke(category);
     };
