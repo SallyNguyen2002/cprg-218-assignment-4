@@ -9,3 +9,19 @@
         <script src="joke.js"></script>
 		<script src="https://kit.fontawesome.com/906e56f202.js" crossorigin="anonymous"></script>
 	</head>
+	<body>
+		<header>
+			<h1 id="title">Joke of the Day</h1>
+			<div id="joke-container">
+				<p id="joke-text">Loading joke...</p>
+			</div>
+		</header>
+		<div>
+			<button onclick="getJoke('Programming')"><i class="fa-solid fa-computer"></i> Programming</button>
+			<button onclick="getJoke('Misc')"><i class="fa-regular fa-face-grin-stars"></i> Miscellaneous</button>
+			<button onclick="getJoke('Pun')"><i class="fa-regular fa-face-grin-tongue"></i> Pun</button>
+			<button onclick="getJoke('Spooky')"><i class="fa-solid fa-ghost"></i> Spooky</button>
+			<button onclick="getJoke('Christmas')"><i class="fa-solid fa-gift"></i> Christmas</button>
+		  </div>
+	</body>
+    </html>
