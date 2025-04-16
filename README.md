@@ -1,8 +1,8 @@
 # cprg-218-assignment-4
 
-## Assignment - JavaScript API
+## Assignment - Final Project
 
-Using an API can allow you to create dynamic web applications by adding additional functionality to a webpage. Demonstrating that you understand how to add this interactivity will allow you to create more engaging and rich web experiences for your users.
+Being able to design and develop a data-driven, dynamic website is vital on the modern web. Combining the skills you have learned over the last two semesters while employing your abilities to problem solve and troubleshoot will be needed to pursue web development.
 
 ## Attributions and Citations
 
